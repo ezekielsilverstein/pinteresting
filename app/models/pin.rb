@@ -1,3 +1,3 @@
-class Pin < ApplicationRecord
-  belongs_to :user
+class Pin < ActiveRecord::Base
+	belongs_to :user
 end
