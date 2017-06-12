@@ -36,6 +36,8 @@ gem 'jquery-rails'
 # gem 'capistrano-rails', group: :development
 # Use devise
 gem 'devise'
+# Use paperclip
+gem 'paperclip', '~> 4.2'
 
 group :production do
   # Use postgresql
