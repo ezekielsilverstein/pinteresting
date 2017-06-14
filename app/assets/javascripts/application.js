@@ -12,8 +12,9 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require masonry/jquery.masonry
+//= require masonry/jquery.imagesloaded.min
 //= require bootstrap
 //= require bootstrap-sprockets
 //= require rails-ujs
-//= require turbolinks
 //= require_tree .
