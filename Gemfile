@@ -38,6 +38,9 @@ gem 'jquery-rails'
 gem 'devise'
 # Use paperclip
 gem 'paperclip', '~> 4.2'
+# Use AWS
+gem 'aws-sdk', '< 2.0'
+
 
 group :production do
   # Use postgresql
